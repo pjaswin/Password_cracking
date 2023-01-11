@@ -1,0 +1,8 @@
+Used three seprate C prg to complete this task , Please refer make file to run it
+Output which i got is also attached in zip.
+Order of running Prg
+1)unshadowprg1.c
+2)top250tohash2.c
+3)crackingpasswd3.c
+
+Thank you
